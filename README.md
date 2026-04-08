@@ -2,7 +2,7 @@
 
 
 
-## 💫 Sobre mim 
+## 👩🏻‍💻 Sobre mim 
 
 Atualmente cursando Bacharelado em Ciência da Computação e formado em Análise e Desenvolvimento de Sistemas pela UNIBF, com interesse constante em evolução na área de tecnologia. Destaca-se pela busca contínua de aprendizado, proatividade e dedicação no desenvolvimento de habilidades técnicas e práticas. Possui interesse em inovação, desenvolvimento de sistemas e soluções tecnológicas, sempre buscando aplicar conhecimentos em projetos e desafios que contribuam para o crescimento profissional.
 
@@ -69,7 +69,5 @@ Contato:
 
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipvxz&layout=compact&theme=radical)
 
 ![Snake animation](https://github.com/JenniferDaleffi/JenniferDaleffi/blob/output/github-contribution-grid-snake.svg)
