@@ -14,11 +14,11 @@ Atualmente cursando Bacharelado em Ciência da Computação e formado em Anális
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠 Áreas
+## 🛠 Áreas de Interesse
 
-##• Desenvolvimento de Software 💻
-##• Lógica de Programação 🧠
-##• Análise de Dados 📊
+### • Desenvolvimento de Software 💻
+### • Lógica de Programação 🧠
+### • Análise de Dados 📊
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
